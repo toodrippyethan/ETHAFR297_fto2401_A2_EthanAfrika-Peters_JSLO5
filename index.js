@@ -11,6 +11,10 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "Whole Lotta Love", artist: "Led Zeppelin", genre: "Rock" },
+    { title: "La Grange", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "Best Part", artist: "Daniel Cessaer", genre: "R&B" },
+    { title: "Leave the door Open", artist: "Bruno Mars", genre: "Rock" },
     // Feel free to add even more songs
 ];
 
