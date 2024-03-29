@@ -14,7 +14,8 @@ const songs = [
     { title: "Whole Lotta Love", artist: "Led Zeppelin", genre: "Rock" },
     { title: "La Grange", artist: "Elvin Bishop", genre: "Rock" },
     { title: "Best Part", artist: "Daniel Cessaer", genre: "R&B" },
-    { title: "Leave the door Open", artist: "Bruno Mars", genre: "Rock" },
+    { title: "What a wonderful World", artist: "Louis Armstrong", genre: "Jazz" },
+    { title: "La vi en rose", artist: "Louis Armstrong", genre: "Jazz" },
     // Feel free to add even more songs
 ];
 
@@ -24,6 +25,9 @@ const guardians = {
     "Star-Lord": "Rock",
     "Gamora": "Pop",
     // Add preferences for Drax, Rocket, and Groot
+    "Drax": "Jazz",
+    "Rocket": "Pop",
+    "Groot": "R&B",
 };
 
 // Function to generate playlist based on preferred genre
